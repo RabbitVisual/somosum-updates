@@ -1,0 +1,22 @@
+SOMOSUM — Licença de Uso
+
+Copyright (c) 2026 Reinan Rodrigues
+
+Uso gratuito para igrejas e organizações religiosas que utilizem o SOMOSUM
+para projeção de cultos, desde que respeitadas as condições abaixo.
+
+Permitido:
+- Instalar e usar o software em quantos computadores forem necessários na igreja
+- Receber atualizações delta pelo canal oficial de atualizações
+- Fazer backup dos dados locais (model/data)
+
+Não permitido sem autorização escrita do autor:
+- Revender, sublicenciar ou cobrar pelo software em si
+- Remover avisos de autoria ou alterar a identidade do produto
+- Publicar o código-fonte ou redistribuir builds modificados como “SOMOSUM”
+- Engenharia reversa com finalidade de clonar o produto para distribuição
+
+O software é fornecido “como está”, sem garantias. O autor não se responsabiliza
+por perda de dados — mantenha backups regulares.
+
+Contato: r.rodriguesjs@gmail.com
