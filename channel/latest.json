@@ -1,7 +1,12 @@
 {
-  "version": "8.7.8",
-  "minVersion": "8.7.8",
-  "publishedAt": "2026-07-28T18:00:00.000Z",
-  "notesPath": "notes/8.7.8.md",
-  "package": null
+  "version": "8.7.9",
+  "minVersion": "8.7.9",
+  "publishedAt": "2026-07-29T03:04:56.758Z",
+  "notesPath": "notes/8.7.9.md",
+  "package": {
+    "file": "update-8.7.9.zip",
+    "sha256": "e81fb89a03acf5663e9a2bef76845ee78f0912b06d3dd647f15aed489cc95d45",
+    "bytes": 11816341,
+    "url": "https://github.com/RabbitVisual/somosum-updates/releases/download/app-8.7.9/update-8.7.9.zip"
+  }
 }
