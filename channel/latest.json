@@ -1,12 +1,12 @@
 {
-  "version": "8.7.17",
-  "minVersion": "8.7.16",
-  "publishedAt": "2026-07-30T03:00:59.877Z",
-  "notesPath": "notes/8.7.17.md",
+  "version": "8.7.18",
+  "minVersion": "8.7.17",
+  "publishedAt": "2026-07-30T03:30:38.358Z",
+  "notesPath": "notes/8.7.18.md",
   "package": {
-    "file": "update-8.7.17.zip",
-    "sha256": "4edafaa1b290be30a2aa4288b05f77782f4d8509e44258ce82d1f02b733bca40",
-    "bytes": 18871696,
-    "url": "https://github.com/RabbitVisual/somosum-updates/releases/download/app-8.7.17/update-8.7.17.zip"
+    "file": "update-8.7.18.zip",
+    "sha256": "73b6926436cdfebecc27885bd44770f52a4aec16f6d7f7c66a5e4896a12dc709",
+    "bytes": 12324853,
+    "url": "https://github.com/RabbitVisual/somosum-updates/releases/download/app-8.7.18/update-8.7.18.zip"
   }
 }
