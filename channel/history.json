@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T10:00:00.000Z",
+  "updatedAt": "2026-08-04T10:44:02.621Z",
   "versions": [
     {
       "version": "8.7.9",
@@ -155,6 +155,18 @@
         "sha256": "84c690c58989440019478f89695bb1bbb2596174c3b41435654ade615f61db27",
         "bytes": 18884702,
         "url": "https://github.com/RabbitVisual/somosum-updates/releases/download/app-8.8.2/update-8.8.2.zip"
+      }
+    },
+    {
+      "version": "8.8.3",
+      "minVersion": "8.8.2",
+      "publishedAt": "2026-08-04T10:44:02.621Z",
+      "notesPath": "notes/8.8.3.md",
+      "package": {
+        "file": "update-8.8.3.zip",
+        "sha256": "37d1f1533931174435140ed8b0b61f76d621e33a56e3a5020c1f8e5ef7b19ebc",
+        "bytes": 18980169,
+        "url": "https://github.com/RabbitVisual/somosum-updates/releases/download/app-8.8.3/update-8.8.3.zip"
       }
     }
   ]
