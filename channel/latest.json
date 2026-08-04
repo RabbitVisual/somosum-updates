@@ -1,6 +1,6 @@
 {
   "version": "8.8.2",
-  "minVersion": "8.8.1",
+  "minVersion": "8.0.0",
   "publishedAt": "2026-08-02T20:26:04.152Z",
   "notesPath": "notes/8.8.2.md",
   "package": {
