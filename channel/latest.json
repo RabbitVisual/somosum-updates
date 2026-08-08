@@ -1,4 +1,4 @@
-{
+﻿{
   "version": "8.8.3",
   "minVersion": "8.7.8",
   "publishedAt": "2026-08-08T21:47:54.062Z",
@@ -6,8 +6,8 @@
   "full": true,
   "package": {
     "file": "update-8.8.3.zip",
-    "sha256": "9107bf66339719cd9534bc195d97624022c88c5f868ab8bd8a97c4e96687c7b5",
-    "bytes": 18980553,
+    "sha256": "dab66eb0cf4535fd3b66a6d5c97ba89d04cd45c2e6c9258ffbc08f1dc596d2a2",
+    "bytes": 18887038,
     "url": "https://raw.githubusercontent.com/RabbitVisual/somosum-updates/main/channel/pkg/update-8.8.3.zip"
   }
 }
