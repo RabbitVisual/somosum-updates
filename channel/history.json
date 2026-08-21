@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T21:08:58.546Z",
+  "updatedAt": "2026-08-21T23:37:52.134Z",
   "versions": [
     {
       "version": "8.7.9",
@@ -419,6 +419,18 @@
         "sha256": "1b4ac58694c7a3129a30e71327665b4828baf2f3b19322d6425018274d95e01f",
         "bytes": 12496042,
         "url": "https://raw.githubusercontent.com/RabbitVisual/somosum-updates/main/channel/pkg/update-8.8.24.zip"
+      }
+    },
+    {
+      "version": "8.8.25",
+      "minVersion": "8.8.24",
+      "publishedAt": "2026-08-21T23:37:52.134Z",
+      "notesPath": "notes/8.8.25.md",
+      "package": {
+        "file": "update-8.8.25.zip",
+        "sha256": "10aed1ac2ade351daa463306595a3dacc351bd55b0a9dd9230141f1c1e0832a4",
+        "bytes": 12522190,
+        "url": "https://raw.githubusercontent.com/RabbitVisual/somosum-updates/main/channel/pkg/update-8.8.25.zip"
       }
     }
   ]
